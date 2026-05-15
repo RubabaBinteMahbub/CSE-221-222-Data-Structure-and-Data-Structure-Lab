@@ -1,4 +1,4 @@
-### CSE-221-222-Data-Structure-and-Data-Structure-Lab
+###📚 CSE 221 & 222 : Data Structure and Data Structure Lab
 This repository serves as a comprehensive collection of Data Structure implementations from the CSE-221 (Theory) and CSE-222 (Lab) courses. It focuses on the architectural design, memory allocation, and management of data.
 
 <h3>🚀 Course Overview</h3>
