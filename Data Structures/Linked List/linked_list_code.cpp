@@ -1,4 +1,4 @@
-// Linked list from scrach
+// Linked list from scratch
 
 /*
 Functions of linked list :
