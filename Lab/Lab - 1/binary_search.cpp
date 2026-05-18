@@ -45,3 +45,24 @@ int main()
 
   return 0;
 }
+
+/*
+ int left=0,right=size-1,middle;
+
+  while(left<=right){
+    middle = (left+right)/2;
+
+    if(arr[middle] == target){
+      cout<<"Target found at "<<middle<<" index"<<endl;
+      return 0;
+    }
+    else if(arr[middle]<target){
+      left = middle+1;
+    }
+    else if(target<arr[middle]){
+      right = middle-1;
+    }
+  }
+
+  cout<<"Not found"<<endl;
+*/
