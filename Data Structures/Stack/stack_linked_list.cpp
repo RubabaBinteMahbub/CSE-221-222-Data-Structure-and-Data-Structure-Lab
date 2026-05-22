@@ -1,4 +1,4 @@
-// Implementation of stack from array
+// Implementation of stack from linked list
 
 #include<iostream>
 using namespace std;
