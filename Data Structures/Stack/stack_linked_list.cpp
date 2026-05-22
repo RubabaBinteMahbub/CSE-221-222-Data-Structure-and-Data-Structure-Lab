@@ -1,3 +1,5 @@
+// Implementation of stack from array
+
 #include<iostream>
 using namespace std;
 
