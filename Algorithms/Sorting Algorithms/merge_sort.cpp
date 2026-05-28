@@ -1,3 +1,5 @@
+//divide and conquer method এ কাজ করে -> dividen + sort + merge
+
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -80,3 +82,6 @@ int main()
 
     return 0;
 }
+
+// Time complexity : O(n logn)
+// Space complexity : O(n)
