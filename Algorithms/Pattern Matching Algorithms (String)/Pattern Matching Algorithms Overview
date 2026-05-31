@@ -1,3 +1,8 @@
+Pattern matching algorithm হচ্ছে substring
+খোঁজা। একটা string থাকবে pattern নামে।
+সেটা text নামক string এ আছে কিনা, থাকলে কতবার
+আছে সেটা বের করা।
+
 ক্রম           Algorithm
 1st      Naive Pattern Matching
 2nd      KMP (Knuth-Morris-Pratt)
