@@ -1,0 +1,21 @@
+ক্রম           Algorithm
+1st      Naive Pattern Matching
+2nd      KMP (Knuth-Morris-Pratt)
+3rd      Rabin-Karp
+4th      Boyer-Moore
+
+সংক্ষেপে
+1. Naive       এক ঘর করে shift       O(nm)
+2. KMP         LPS Array ব্যবহার করে    O(n+m)
+3. Rabin-Karp  Hashing ব্যবহার করে      O(n+m) (average)
+
+উদাহরণ:
+Plain text
+Text    = ABCDEFG
+Pattern = CDE
+Pattern এবং Text-এর window-এর hash compare করা হয়।
+
+4. Boyer-Moore ডান দিক (right-to-left) থেকে compare করে
+অনেক character একসাথে skip করতে পারে
+
+বাস্তবে খুব দ্রুত
