@@ -19,3 +19,8 @@ Pattern এবং Text-এর window-এর hash compare করা হয়।
 অনেক character একসাথে skip করতে পারে
 
 বাস্তবে খুব দ্রুত
+
+যদি তোমার Data Structure কোর্সে Pattern Matching
+থাকে, তাহলে Naive এবং KMP সবচেয়ে গুরুত্বপূর্ণ। Rabin-Karp
+ও Boyer-Moore সাধারণত ধারণাগতভাবে বা সংক্ষেপে পড়ানো হয়,
+যদিও সিলেবাসভেদে বিস্তারিতও আসতে পারে।
