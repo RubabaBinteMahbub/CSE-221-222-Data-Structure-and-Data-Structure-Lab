@@ -1,3 +1,6 @@
+// s.insert(3, 1, 'l');
+// index 3 এ 1টা 'l' insert
+
 #include<iostream>
 using namespace std;
 
